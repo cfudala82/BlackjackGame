@@ -7,9 +7,12 @@ var sevenOfDiamonds = {point:  7, suit: 'diamonds', img: '7_of_diamonds.png'};
 var eightOfDiamonds = {point:  8, suit: 'diamonds', img: '8_of_diamonds.png'};
 var nineOfDiamonds = {point:  9, suit: 'diamonds', img: '9_of_diamonds.png'};
 var tenOfDiamonds = {point:  10, suit: 'diamonds', img: '10_of_diamonds.png'};
-var jackOfDiamonds = {point:  10, suit: 'diamonds', img: 'jack_of_diamonds2.png'};
-var queenOfDiamonds = {point:  10, suit: 'diamonds', img: 'queen_of_diamonds2.png'};
-var kingOfDiamonds = {point:  10, suit: 'diamonds', img: 'king_of_diamonds2.png'};
+var jackOfDiamonds = {point:  10, suit: 'diamonds',
+    img: 'jack_of_diamonds2.png'};
+var queenOfDiamonds = {point:  10, suit: 'diamonds',
+    img: 'queen_of_diamonds2.png'};
+var kingOfDiamonds = {point:  10, suit: 'diamonds',
+    img: 'king_of_diamonds2.png'};
 var aceOfDiamonds = {point:  11, suit: 'diamonds', img: 'ace_of_diamonds.png'};
 var twoOfClubs = {point:  2, suit: 'clubs', img: '2_of_clubs.png'};
 var threeOfClubs = {point:  3, suit: 'clubs', img: '3_of_clubs.png'};
